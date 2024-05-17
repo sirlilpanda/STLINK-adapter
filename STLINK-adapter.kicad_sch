@@ -2814,7 +2814,7 @@
 			(uuid "e30b3ee9-912f-4b03-beaf-ce44f00a3b6c")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "#PWR014")
 					(unit 1)
@@ -2881,7 +2881,7 @@
 			(uuid "ab79a543-bd33-4b91-9a44-a00bc114cf2b")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "TP1")
 					(unit 1)
@@ -2908,7 +2908,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1u"
 			(at 213.36 75.5649 0)
 			(effects
 				(font
@@ -2951,7 +2951,7 @@
 			(uuid "358e7f55-00cb-4b2f-99b2-cd391ab19edf")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "C3")
 					(unit 1)
@@ -3015,7 +3015,7 @@
 			)
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "H1")
 					(unit 1)
@@ -3082,7 +3082,7 @@
 			(uuid "ec7ce92e-1780-4b6a-8952-18acabd2a32e")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "#PWR05")
 					(unit 1)
@@ -3148,7 +3148,7 @@
 			(uuid "c5e80b12-cd0f-4100-b624-a07c7e5dda59")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "#PWR010")
 					(unit 1)
@@ -3167,15 +3167,15 @@
 		(fields_autoplaced yes)
 		(uuid "4b1c7eea-ab47-46ab-a8c2-1c8cde0cbf5d")
 		(property "Reference" "R4"
-			(at 82.55 85.725 90)
+			(at 82.55 85.09 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "R"
-			(at 82.55 88.265 90)
+		(property "Value" "0"
+			(at 82.55 87.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3216,7 +3216,7 @@
 			(uuid "ab0f5ee0-3b07-4069-83d5-7a52a539580b")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "R4")
 					(unit 1)
@@ -3281,7 +3281,7 @@
 			(uuid "256fd31a-a184-4646-92d1-e44239942b79")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "#PWR017")
 					(unit 1)
@@ -3348,7 +3348,7 @@
 			(uuid "070d82f9-6fad-45aa-bd7f-9a9dc19a31c7")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "TP5")
 					(unit 1)
@@ -3414,7 +3414,7 @@
 			(uuid "68885376-57b7-4031-86fe-7056d24ac3f1")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "#PWR08")
 					(unit 1)
@@ -3441,7 +3441,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "200"
 			(at 229.87 34.9249 0)
 			(effects
 				(font
@@ -3484,7 +3484,7 @@
 			(uuid "f48bbd9f-f64e-4747-b9f4-f70c60d4a0d1")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "R2")
 					(unit 1)
@@ -3578,7 +3578,7 @@
 			(uuid "187fd96b-d652-40fc-a27d-2ae4812d7e6e")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "J2")
 					(unit 1)
@@ -3645,7 +3645,7 @@
 			(uuid "70ff43c6-7da0-4017-acb3-3aad8dc2567b")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "#PWR09")
 					(unit 1)
@@ -3710,7 +3710,7 @@
 			(uuid "530de5d5-6a35-4c69-a782-860516eb2db8")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "#PWR01")
 					(unit 1)
@@ -3729,7 +3729,7 @@
 		(fields_autoplaced yes)
 		(uuid "6848a457-56e7-43de-b078-26e83aab60c1")
 		(property "Reference" "C5"
-			(at 234.315 73.0249 0)
+			(at 233.68 73.0249 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3737,8 +3737,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 234.315 75.5649 0)
+		(property "Value" "1u"
+			(at 233.68 75.5649 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3780,7 +3780,7 @@
 			(uuid "da2dff30-cacd-4370-b428-26ad5abd27c9")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "C5")
 					(unit 1)
@@ -3853,7 +3853,7 @@
 			(uuid "ded5df12-b3bc-4837-9b49-c32786c0ddc3")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "JP2")
 					(unit 1)
@@ -3920,7 +3920,7 @@
 			(uuid "25566342-19c7-4822-be63-bd69743bab44")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "#PWR03")
 					(unit 1)
@@ -3987,7 +3987,7 @@
 			(uuid "12b529a1-fd2c-4f0c-9c2a-c7691943924b")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "TP4")
 					(unit 1)
@@ -4051,7 +4051,7 @@
 			)
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "H2")
 					(unit 1)
@@ -4078,7 +4078,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1u"
 			(at 204.47 75.5649 0)
 			(effects
 				(font
@@ -4121,7 +4121,7 @@
 			(uuid "d438515d-8010-49cc-ad05-2006c075f9ce")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "C2")
 					(unit 1)
@@ -4191,7 +4191,7 @@
 			(uuid "03106aa8-9d81-4310-ae87-0e1e3afe3e4c")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "D2")
 					(unit 1)
@@ -4258,7 +4258,7 @@
 			(uuid "34f3976d-6700-423f-9cbe-7e8696884042")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "#PWR02")
 					(unit 1)
@@ -4325,7 +4325,7 @@
 			(uuid "b15b08c6-5ac7-4594-a19c-31ac9cc973cf")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "TP2")
 					(unit 1)
@@ -4344,7 +4344,7 @@
 		(fields_autoplaced yes)
 		(uuid "8e314b99-336d-4853-93c0-f0dc89d55e1c")
 		(property "Reference" "C4"
-			(at 225.425 73.0249 0)
+			(at 224.79 73.0249 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4352,8 +4352,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 225.425 75.5649 0)
+		(property "Value" "1u"
+			(at 224.79 75.5649 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4395,7 +4395,7 @@
 			(uuid "6222bef0-be5c-417c-9394-8d0afc32427e")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "C4")
 					(unit 1)
@@ -4477,7 +4477,7 @@
 			(uuid "a935373e-a3ed-4739-892c-07c12028a2f5")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "J3")
 					(unit 1)
@@ -4542,7 +4542,7 @@
 			(uuid "aa38ec4b-ee01-42b0-80ca-96db21252bc4")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "#PWR06")
 					(unit 1)
@@ -4608,7 +4608,7 @@
 			(uuid "577ecc84-577e-49d9-b4ef-974322224119")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "TP3")
 					(unit 1)
@@ -4673,7 +4673,7 @@
 			(uuid "01a43400-ed0d-4505-b05e-d7fb0b647130")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "#PWR013")
 					(unit 1)
@@ -4746,7 +4746,7 @@
 			(uuid "93b5c194-5ff7-4378-90b8-160a7f75b1b3")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "JP1")
 					(unit 1)
@@ -4816,7 +4816,7 @@
 			(uuid "c31e49a6-f4be-4383-ad7e-f4dacdfa8d7a")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "D1")
 					(unit 1)
@@ -4881,7 +4881,7 @@
 			(uuid "36502823-9cb5-471a-9951-a6076258a53e")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "#PWR011")
 					(unit 1)
@@ -4946,7 +4946,7 @@
 			(uuid "a12352b5-72fe-470c-86be-1485a3fa276f")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "#PWR015")
 					(unit 1)
@@ -5012,7 +5012,7 @@
 			(uuid "cab38937-6da4-40b8-bdde-8f2f111bfc0b")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "#PWR012")
 					(unit 1)
@@ -5077,7 +5077,7 @@
 			(uuid "f61fe25f-d8cf-41fd-9f8a-340bac2fb8af")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "#PWR07")
 					(unit 1)
@@ -5096,7 +5096,7 @@
 		(fields_autoplaced yes)
 		(uuid "c1b4daa6-5167-4fcc-8bb0-e80bae251aab")
 		(property "Reference" "C6"
-			(at 243.205 73.0249 0)
+			(at 242.57 73.0249 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5104,8 +5104,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 243.205 75.5649 0)
+		(property "Value" "1u"
+			(at 242.57 75.5649 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5147,7 +5147,7 @@
 			(uuid "f61cee99-96a9-4813-b6ca-324f2995418d")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "C6")
 					(unit 1)
@@ -5227,7 +5227,7 @@
 			(uuid "e578e315-f62f-40b8-afee-418e07cfad9a")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "J1")
 					(unit 1)
@@ -5292,7 +5292,7 @@
 			(uuid "6c1a6bbe-e3e7-4fe5-ae73-cafa36b1e0ec")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "#PWR018")
 					(unit 1)
@@ -5359,7 +5359,7 @@
 			(uuid "6bd247e7-6439-4443-928f-b61c31b4a090")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "#PWR04")
 					(unit 1)
@@ -5425,7 +5425,7 @@
 			(uuid "0e8e7693-725b-46c9-b8b2-f0e98384b6cb")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "#PWR016")
 					(unit 1)
@@ -5444,7 +5444,7 @@
 		(fields_autoplaced yes)
 		(uuid "e8cb5ba1-aff5-48eb-bff5-8e13cf41e2a3")
 		(property "Reference" "R3"
-			(at 238.125 32.3849 0)
+			(at 238.76 32.3849 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5452,8 +5452,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
-			(at 238.125 34.9249 0)
+		(property "Value" "250"
+			(at 238.76 34.9249 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5495,7 +5495,7 @@
 			(uuid "1080ff1d-be82-425f-8754-81e6ab1fc3f2")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "R3")
 					(unit 1)
@@ -5514,7 +5514,7 @@
 		(fields_autoplaced yes)
 		(uuid "ec86dc48-30e1-4473-bb57-10f22f6b0ff1")
 		(property "Reference" "R1"
-			(at 221.615 32.3849 0)
+			(at 222.25 32.3849 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5522,8 +5522,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
-			(at 221.615 34.9249 0)
+		(property "Value" "300"
+			(at 222.25 34.9249 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5565,7 +5565,7 @@
 			(uuid "a5b78215-54d9-4fb2-9ca9-fe4355e2b537")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "R1")
 					(unit 1)
@@ -5635,7 +5635,7 @@
 			(uuid "ac36b649-28e1-42d1-9d03-0fb61ab44a7f")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "D3")
 					(unit 1)
@@ -5700,7 +5700,7 @@
 			(uuid "a3d59021-faca-4737-a98c-b7c079c8e0ed")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "#PWR019")
 					(unit 1)
@@ -5764,7 +5764,7 @@
 			)
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "H3")
 					(unit 1)
@@ -5791,7 +5791,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "1u"
 			(at 195.58 75.5649 0)
 			(effects
 				(font
@@ -5834,7 +5834,7 @@
 			(uuid "1da587f8-6a95-4868-948e-94f2ceead1c0")
 		)
 		(instances
-			(project "univeral_stlink_board"
+			(project "STLINK-adapter"
 				(path "/3b1b7b6f-d7ac-417a-8f6a-128ed65aa866"
 					(reference "C1")
 					(unit 1)
